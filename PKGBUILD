@@ -1,7 +1,7 @@
 # Maintainer: Guinux <nuxgui@gmail.com>
 
 pkgname=manjaro-release
-pkgver=26.0.0
+pkgver=26.1.1
 pkgrel=1
 pkgdesc="Manjaro's release definition"
 arch=("any")
@@ -10,7 +10,7 @@ license=('GPL2')
 depends=('lsb-release')
 source=('lsb-release')
 install="manjaro-release.install"
-sha256sums=('5eabf46d3e955a19d01f08484fedbc001028a23f592d731fd67c3f11b8d7ed59')
+sha256sums=('f9545df420fed9ac6f5483369b2bd1df1a8b25ca9575ec8ec9a02e5adb951ffa')
 
 #pkgver() {
     #parse lsb-release
